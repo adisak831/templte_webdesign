@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/now-ui-dashboard-react/static/css/main.bb1ee93a.chunk.css",
+    "main.js": "/now-ui-dashboard-react/static/js/main.9671981a.chunk.js",
+    "main.js.map": "/now-ui-dashboard-react/static/js/main.9671981a.chunk.js.map",
+    "runtime-main.js": "/now-ui-dashboard-react/static/js/runtime-main.0fe1da46.js",
+    "runtime-main.js.map": "/now-ui-dashboard-react/static/js/runtime-main.0fe1da46.js.map",
+    "static/css/2.d5e620ed.chunk.css": "/now-ui-dashboard-react/static/css/2.d5e620ed.chunk.css",
+    "static/js/2.8e1e5ed5.chunk.js": "/now-ui-dashboard-react/static/js/2.8e1e5ed5.chunk.js",
+    "static/js/2.8e1e5ed5.chunk.js.map": "/now-ui-dashboard-react/static/js/2.8e1e5ed5.chunk.js.map",
+    "index.html": "/now-ui-dashboard-react/index.html",
+    "static/css/2.d5e620ed.chunk.css.map": "/now-ui-dashboard-react/static/css/2.d5e620ed.chunk.css.map",
+    "static/css/main.bb1ee93a.chunk.css.map": "/now-ui-dashboard-react/static/css/main.bb1ee93a.chunk.css.map",
+    "static/js/2.8e1e5ed5.chunk.js.LICENSE.txt": "/now-ui-dashboard-react/static/js/2.8e1e5ed5.chunk.js.LICENSE.txt",
+    "static/js/main.9671981a.chunk.js.LICENSE.txt": "/now-ui-dashboard-react/static/js/main.9671981a.chunk.js.LICENSE.txt",
+    "static/media/bg5.jpg": "/now-ui-dashboard-react/static/media/bg5.d60a95eb.jpg",
+    "static/media/logo-white.6a2b2982.svg": "/now-ui-dashboard-react/static/media/logo-white.6a2b2982.svg",
+    "static/media/mike.jpg": "/now-ui-dashboard-react/static/media/mike.d34d0690.jpg",
+    "static/media/now-ui-dashboard.scss?v1.5.0": "/now-ui-dashboard-react/static/media/nucleo-outline.802141dd.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fe1da46.js",
+    "static/css/2.d5e620ed.chunk.css",
+    "static/js/2.8e1e5ed5.chunk.js",
+    "static/css/main.bb1ee93a.chunk.css",
+    "static/js/main.9671981a.chunk.js"
+  ]
+}
